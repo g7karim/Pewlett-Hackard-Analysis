@@ -19,8 +19,7 @@ Determining the eligiblity critteria for staff born in 1965:
 
 - 1,550 employees eligible for the mentorship program
 
-![retiring_titles]
-(https://user-images.githubusercontent.com/79559910/117557241-f0d6c500-b03e-11eb-9e47-5904718b10da.png)
+![retiring_titles](https://user-images.githubusercontent.com/79559910/117557241-f0d6c500-b03e-11eb-9e47-5904718b10da.png)
 
 
 There are no managers eligible for this program based on the current criteriaSummary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
