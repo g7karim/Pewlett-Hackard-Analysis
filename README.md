@@ -18,7 +18,9 @@ The following data was gathered during the analysis to determine which employees
 
 
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Summary:
+
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
