@@ -12,11 +12,11 @@ EmployeeDB.png
 
 The following data was gathered during the analysis to determine which employees were reaching retirement and eligible for the mentorship program. For example employees born between 1952-01-01 and 1955-12-31 and hired between 1982-01-01 and 1985-12-31 were the targetted employees. Furthermore the findings present: 
 
-- Total number of current employees: 40,497
-- Number of employees appraoching retirement: 90,396
+- Current employees: 40,497
+- Employees appraoching retirement: 90,396
 - Eligible for mentorship program: 1550
-- Senior level employees: 57,668
-- Number of engineers: 43,636
+- Senior staff: 28254
+- Senior engineers: 29414
 - Number managers that need be replaced: 2 
 
 retiring_titles
