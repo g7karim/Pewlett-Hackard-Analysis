@@ -14,9 +14,14 @@ The following data was gathered during the analysis to determine which employees
 
 - Total number of current employees: 40,497
 - Number of employees appraoching retirement: 90,396
+- Eligible for mentorship program: 1550
 - Senior level employees: 57,668
 - Number of engineers: 43,636
 - Number managers that need be replaced: 2 
+
+retiring_titles
+
+![image](https://user-images.githubusercontent.com/79559910/117556887-a7d14180-b03b-11eb-9d42-84e3b69ef904.png)
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
